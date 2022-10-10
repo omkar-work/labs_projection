@@ -176,4 +176,4 @@ def get_data_freemium(hosting_package_sold_per_year = 12500):
     return data
   
 print("Hello World")
-print(get_data_freemium[0)
+print(get_data_freemium[0])
